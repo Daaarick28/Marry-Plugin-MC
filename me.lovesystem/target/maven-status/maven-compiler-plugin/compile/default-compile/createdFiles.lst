@@ -1,0 +1,8 @@
+me\lovesystem\LoveSystem.class
+me\lovesystem\commands\DivorcioCommand.class
+me\lovesystem\commands\RechazarCommand.class
+me\lovesystem\commands\AnilloCommand.class
+me\lovesystem\listeners\MarriageListener.class
+me\lovesystem\commands\AceptarCommand.class
+me\lovesystem\util\RingManager.class
+me\lovesystem\manager\MarriageManager.class

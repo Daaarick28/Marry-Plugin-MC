@@ -1,0 +1,10 @@
+name: LoveSystem
+main: me.lovesystem.LoveSystem
+version: 1.0
+api-version: 1.21
+
+commands:
+  anillo:
+  aceptar:
+  rechazar:
+  divorcio:
